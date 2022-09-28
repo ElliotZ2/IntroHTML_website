@@ -1,0 +1,33 @@
+body{
+    background-color: #1b1d20;
+}
+
+h1{
+    color:rgb(166, 187, 255);
+    text-align: center;
+}
+
+p{
+    color:aliceblue;
+    font-size: large;
+}
+
+table{
+    color: aliceblue;
+}
+
+ul{
+    color: aliceblue;
+}
+
+li{
+    color: aliceblue;
+}
+
+a{
+    color: aliceblue;
+}
+
+form{
+    color: white;
+}
